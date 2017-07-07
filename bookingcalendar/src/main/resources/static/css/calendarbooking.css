@@ -1,0 +1,39 @@
+.scrollableTable
+{
+	height:500px;
+	overflow:auto;
+}
+
+.sectionBorder
+{
+    padding: 10px;
+    border: 3px solid #369;
+    border-radius: 10px;
+    margin: 5px;
+    overflow: auto;
+}
+
+#calendarTable table td
+{
+	white-space: nowrap;
+}
+
+#calendarTable table tr td
+{
+	text-align: center;
+}
+
+#calendarTable table tr:first-child
+{
+	font-weight:bold;
+	color:white;
+	background-color: black;
+}
+
+#calendarTable table td:first-child
+{
+	font-weight:bold;
+	color:white;
+	background-color: black;
+	width:50px;	
+}

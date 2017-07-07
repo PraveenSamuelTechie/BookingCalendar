@@ -1,0 +1,37 @@
+h1{
+	color:#0000FF;
+}
+
+h2{
+	color:#FF0000;
+}
+
+body
+{
+	background:#440120;
+}
+
+.contentArea
+{
+	margin:70px 30px 30px 30px;
+	padding:15px;
+	background-color:white;
+	min-height:640px;
+	border-radius:10px;
+	box-shadow: 10px 10px 5px black;
+}
+
+.footerArea
+{  
+   width:100%;   
+   border-color: #101010;
+   text-align:center;
+   position:fixed;
+    height:30px;
+    background-color: #292424;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin-bottom:0px;
+    color:white;	
+}
